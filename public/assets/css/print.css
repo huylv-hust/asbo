@@ -1,0 +1,24 @@
+.text-center,button,.btn,footer,.container-fluid,.fc-today-button{
+	display:none;
+}
+
+.container{
+	position:absolute !important;
+	top:0 !important;
+}
+
+.fc-month-view .fc-time,.fc-month-view .fc-title{
+	font-size:60% !important;
+}
+
+.fc-agendaDay-view .fc-time,.fc-agendaDay-view .fc-title{
+	font-size:150% !important;
+}
+
+html>/**/body table{
+	width:100% !important;
+}
+
+html>/**/body table td{
+	width:14% !important;
+}
