@@ -1,0 +1,105 @@
+body { padding-top: 70px; }
+
+.navbar-inverse a.dropdown-toggle {
+	color: #ffffff !important;
+}
+
+.navbar-brand {
+	color: #ffffff !important;
+	font-weight: bold;
+    padding: 10px;
+	height: auto;
+}
+
+.navbar-nav > li > a {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#login-bar {
+	background-color: #ED221E;
+	padding: 5px 0px 5px 20px;
+	color: #fff;
+	font-weight: bold;
+}
+
+footer {
+	color: #999999;
+	background-color: #eeeeee;
+	line-height: 40px;
+	text-align: center;
+	margin-top: 20px
+}
+
+table.table {
+	font-size: 90%;
+	vertical-align: middle;
+}
+
+table.table-bordered {
+	width: auto;
+
+}
+
+div.panel-body div.row, div.modal-body div.row {
+	margin-top: 10px;
+}
+.error-mes{
+    color:red;
+}
+
+.time-range {
+	padding: 10px 10px 0px 10px;
+	border: #999999 dotted 1px;
+	margin-bottom: 10px;
+}
+
+div.please-wait {
+	position: fixed;
+	top: 50%;
+	z-index: 9999;
+	width: 100%;
+	text-align: center;
+	background-color: #ffffcc;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 120%;
+	display: none;
+}
+
+.menubar-oil > .panel-heading {
+	background-image: none;
+	background-color: #008000;
+	color: #fff;
+}
+
+.menubar-tire > .panel-heading {
+	background-image: none;
+	background-color: #696969;
+	color: #fff;
+}
+
+.menubar-wash > .panel-heading {
+	background-image: none;
+	background-color: #4169e1;
+	color: #fff;
+}
+
+.menubar-coating > .panel-heading {
+	background-image: none;
+	background-color: #0000ff;
+	color: #fff;
+}
+
+.menubar-inspection > .panel-heading {
+	background-image: none;
+	background-color: #ff4500;
+	color: #fff;
+}
+.ss-name{
+    color:red;
+}
+
+.long-reservation {
+/*	opacity: 0.1; */
+}
